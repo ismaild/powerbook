@@ -2,7 +2,7 @@
 
 export POWERBOOK="${HOME}/.powerbook"
 export POWERBOOK_LOG="${HOME}/Library/Logs/powerbook.log"
-export GITHUB_USER="rauluranga"
+export GITHUB_USER=“ismaild”
 
 # If missing, download and extract the powerbook repository
 if [[ ! -d "${POWERBOOK}" ]]; then
